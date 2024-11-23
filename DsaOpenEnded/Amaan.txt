@@ -1,0 +1,4 @@
+Player: Amaan
+ODI Matches: 21
+T20 Matches: 12
+Test Matches: 32
